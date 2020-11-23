@@ -1,6 +1,6 @@
 # Encrypt test
 
-This project created to test the performance of json encryption and decryption in project [Secured Json](https://github.com/ShubhSingh/secured-json)
+This project created to test the performance of json encryption and decryption in project [Secured Json](https://github.com/ShubhSingh/secured-json) through a jmeter script.
 
 In encrypt-test it is included as a dependency
 
